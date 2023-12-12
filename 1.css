@@ -1,0 +1,11 @@
+
+/* We configure background colour */
+body {
+    background-color: #add8e6; /* Μπλε ανοιχτό */
+}
+
+/* We configure the title */
+header h1 {
+    font-size: 15px;  /* We configure the letter size */
+
+} 
